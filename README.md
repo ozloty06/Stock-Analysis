@@ -1,2 +1,2 @@
 # Stock-Analysis
-Assessing green stocks
+Assessing green stocks for the parental units
