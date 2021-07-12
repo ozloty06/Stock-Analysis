@@ -1,5 +1,5 @@
 # Stock-Analysis
-An excerise in refactoring a VBA script used for performance analysis of a selection of green stocks. 
+An exercise in refactoring a VBA script used for performance analysis of a selection of green stocks. 
 
 ## Overview of Project
 ### Project Context
@@ -49,4 +49,4 @@ If Cells(i - 1, 1).Value <> tickerIndex And Cells(i, 1).Value = tickerIndex Then
 End If
 ```
 
-Note the pural form of "price" in the refactored version of the code. Keeping code refactoring top of mind as you write code can help avoid challenges later as you are closer to your code when you first write it and even a week away from it can make it easy to forget what was intended. Refactoring may be best done early and often.
+Note the plural form of "price" in the refactored version of the code. Keeping code refactoring top of mind as you write code can help avoid challenges later as you are closer to your code when you first write it and even a week away from it can make it easy to forget what was intended. Refactoring may be best done early and often.
